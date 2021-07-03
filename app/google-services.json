@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311868816945",
+    "project_id": "handdec-6e381",
+    "storage_bucket": "handdec-6e381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311868816945:android:f23f57781dc5709b7a9f10",
+        "android_client_info": {
+          "package_name": "com.example.handdec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311868816945-ntkq6e2do70um4gk4ot74dl476ie13i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAd151AdQ6tzLji-IHxuxGI_R4St6rHy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311868816945-ntkq6e2do70um4gk4ot74dl476ie13i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
